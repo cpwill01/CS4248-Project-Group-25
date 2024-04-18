@@ -25,7 +25,7 @@ Fake news has become a pressing issue due to the dangers it poses in areas such 
   - `` training & evaluation of our DistilBERT classifier
   - `` for labelling the LUN dataset with news categories
 
-> For clarifications on the models, please refer to our report at [CS4248_Group25_Final_Report.pdf](https://github.com/cpwill01/CS4248-Project-Group-25/tree/main/CS4248_Group25_Final_Report.pdf)
+> For clarifications on the models, please refer to our report at [CS4248_Project_Group_25_Final_Report.pdf](https://github.com/cpwill01/CS4248-Project-Group-25/tree/main/CS4248_Project_Group_25_Final_Report.pdf)
 ## Dataset & Additional files
 
 Due to GitHub file size limits, we are unable to upload all files used in our project. Please downloaded the necessary files from the below links.
