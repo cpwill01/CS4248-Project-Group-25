@@ -54,4 +54,17 @@ Before running the notebooks, please ensure the following:
         - Download the augmented dataset and both files from the `DistilBERT_pretrained` folder
 2. Edit the file paths in the notebook accordingly.
 
+Also note that the following python packages are required and may need to be installed separately:
+```
+scikit-learn
+pytorch
+nltk
+numpy
+pandas
+matplotlib
+seaborn
+spacy
+transformers
+```
+
 If you encounter any difficulties, please raise an [Issue](https://github.com/cpwill01/CS4248-Project-Group-25/issues). 
