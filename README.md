@@ -22,8 +22,8 @@ Fake news has become a pressing issue due to the dangers it poses in areas such 
   - `training_and_eval.ipynb` for training & evaluation of the HAN and FAN models 
   - `analysis.ipynb` for analysis of subcategory performance and attention weights corresponding to our report's discussion section
 - `DistilBERT/` contains
-  - `` training & evaluation of our DistilBERT classifier
-  - `` for labelling the LUN dataset with news categories
+  - `training and evaluation.ipynb` training & evaluation of our DistilBERT classifier
+  - `news article classification.ipynb` for labelling the LUN dataset with news categories
 
 > For clarifications on the models, please refer to our report at [CS4248_Project_Group_25_Final_Report.pdf](https://github.com/cpwill01/CS4248-Project-Group-25/tree/main/CS4248_Project_Group_25_Final_Report.pdf)
 ## Dataset & Additional files
